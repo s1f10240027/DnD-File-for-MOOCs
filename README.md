@@ -1,1 +1,3 @@
-# DnD-File-for-MOOCs
+# DnD-File-for-MOOCs  
+MOOCsのファイル提出欄にエクスプローラーから直接のドラック&ドロップを可能とする拡張機能。  
+当初はvscodeからDnDさせる予定だったがセキュリティ面の都合上断念。  
